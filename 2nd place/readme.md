@@ -12,7 +12,6 @@ train_UnetPlusPlus_timm_efb5_fold2
 train_UnetPlusPlus_timm_efv2_rws_fold2
 train_UnetPlusPlus_timm_efv2_rws_fold3
 ```
-You can also find our already trained models at ./infer/asset/
 
 ## Setup
 
