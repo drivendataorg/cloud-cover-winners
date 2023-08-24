@@ -13,7 +13,7 @@ In this challenge, participants used machine learning to better detect cloud cov
 
 ## What's in this Repository
 
-This repository contains code from winning competitors in the [On Cloud N: Cloud Cover Detection](https://www.drivendata.org/competitions/83/cloud-cover/) DrivenData challenge.
+This repository contains code from winning competitors in the [On Cloud N: Cloud Cover Detection](https://www.drivendata.org/competitions/83/cloud-cover/) DrivenData challenge. Code for all winning solutions are open source under the MIT License.
 
 **Winning code for other DrivenData competitions is available in the [competition-winners repository](https://github.com/drivendataorg/competition-winners).**
 
